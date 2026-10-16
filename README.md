@@ -6,7 +6,7 @@ No Arduino core, no floating point, no PLL, no I/Q. The same core runs on a PC (
 
 ![Signal chain](doc/signalkette.svg)
 
-*(Deutsche Version: [README.de.md](README.de.md))*
+*(Deutsche Version: [README.de.md](README.de.md))*   *Use case OpenCPN: [OpenCPN.md](OpenCPN.en.md)*
 
 ---
 
