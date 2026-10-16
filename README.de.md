@@ -254,7 +254,7 @@ Für den ESP32 (ESP-IDF 6.1) ersetzt man nur `main.c`: ADC/I²S mit 48 kHz abtas
 | `main.c` | ATmega328P: Timer1/ADC-Abtastung, UART, LED |
 | `host_sim.c` | PC-Testrahmen (Rohdatei → Dekoder), NMEA→Klartext-Modus |
 | `Makefile` | Firmware, PC-Simulation, Tests, simavr |
-| `tools/` | Generator, Referenzdecoder, Testskripte, Grafik-Erzeugung |
+| `tools/` | Generator, Referenzdecoder, Testskripte |
 | `testsignal/` | Aufnahmen, Referenzen, dekodierte Ausgaben, Testergebnis |
 | `doc/` | Grafiken für diese README |
 
