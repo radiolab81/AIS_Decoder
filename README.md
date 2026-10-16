@@ -242,7 +242,7 @@ For the ESP32 (ESP-IDF 6.1) replace only `main.c`: sample the ADC/I²S at 48 kHz
 | `main.c` | ATmega328P: Timer1/ADC sampling, UART, LED |
 | `host_sim.c` | PC test harness (raw file → decoder), NMEA→text mode |
 | `Makefile` | firmware, PC simulation, tests, simavr |
-| `tools/` | generator, reference decoder, test scripts, figure generation |
+| `tools/` | generator, reference decoder, test scripts |
 | `testsignal/` | recordings, references, decoded outputs, test result |
 | `doc/` | figures for this README |
 
