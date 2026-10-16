@@ -7,7 +7,7 @@ als formatierter Klartext. Kein Arduino-Core, kein Gleitkomma, keine PLL, kein I
 
 ![Signalkette](doc/signalkette.svg)
 
-*(English version: [README.md](README.md))*
+*(English version: [README.md](README.md))*   *Anwendungsfall Seekarte: [OpenCPN.md](OpenCPN.md)*
 
 ---
 
