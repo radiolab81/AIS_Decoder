@@ -1,0 +1,841 @@
+!AIVDM,1,1,,A,15MwlV0P00GRUEdCD@0p4OvT0<11,0*71
+[A] Pegel 52  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 366998680 (MID 366)  Repeat 0  (168 Bit)
+    Status 0 unter Maschine  ROT n.v.
+    SOG 0.0 kn  COG 206.5°  HDG n.v.
+    Pos 33°45.4723'N  118°16.4554'W (grob)
+    UTC-Sekunde 18  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 3 Sub 65
+!AIVDM,2,1,0,A,55Mw>bP00001L<C;7O4h58<tp62222222222220P1H?624SosFS<4p0CQiC1,0*30
+!AIVDM,2,2,0,A,Dp888888888,2*18
+[A] Pegel 52  Typ 5  Statische und Reisedaten Klasse A
+    MMSI 366988970 (MID 366)  Repeat 0  (424 Bit)
+    AIS-Version 0  IMO 0  Rufzeichen "WCD2171"
+    Name "LARCONA"  Typ 32 Schlepper gross
+    Abmessungen Bug 11 Heck 15 Backbord 6 Steuerbord 2 m  EPFD GPS
+    ETA 02-07 23:59  Tiefgang 9.0 m
+    Ziel "L0S ANGELES"  DTE nicht bereit
+!AIVDM,1,1,,A,15MqDMPP00GRo;RCDf`@0?vT0@;W,0*74
+[A] Pegel 53  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 366892150 (MID 366)  Repeat 0  (168 Bit)
+    Status 0 unter Maschine  ROT n.v.
+    SOG 0.0 kn  COG 0.0°  HDG n.v.
+    Pos 33°46.2561'N  118°12.8015'W (grob)
+    UTC-Sekunde 18  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 4 Sub 743
+!AIVDM,1,1,,A,15DqPD0000GRTW@CDBsRg1<T0PRs,0*4E
+[A] Pegel 54  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 357458000 (MID 357)  Repeat 0  (168 Bit)
+    Status 0 unter Maschine  ROT 0.0°/min
+    SOG 0.0 kn  COG 70.0°  HDG 38°
+    Pos 33°45.5470'N  118°16.6040'W (grob)
+    UTC-Sekunde 18  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 1 Timeout 0 Sub 2235
+!AIVDM,1,1,,A,16LIWJ0000oRmC4CDko8IWJV0PRg,0*72
+[A] Pegel 52  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 432433000 (MID 432)  Repeat 0  (168 Bit)
+    Status 0 unter Maschine  ROT 0.0°/min
+    SOG 0.0 kn  COG 215.0°  HDG 237°
+    Pos 33°46.3900'N  118°13.1870'W (genau, DGNSS)
+    UTC-Sekunde 19  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 1 Timeout 0 Sub 2223
+!AIVDM,1,1,,A,15Mw>`0P00GRm6jCDUUh0?vV08<W,0*21
+[A] Pegel 58  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 366988960 (MID 366)  Repeat 0  (168 Bit)
+    Status 0 unter Maschine  ROT n.v.
+    SOG 0.0 kn  COG 0.0°  HDG n.v.
+    Pos 33°46.0247'N  118°13.2263'W (grob)
+    UTC-Sekunde 19  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 2 Sub 807
+!AIVDM,1,1,,A,15N0:KRP00GRn3TCDV>00?vV08<C,0*34
+[A] Pegel 60  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 367004270 (MID 367)  Repeat 0  (168 Bit)
+    Status 2 manoevrierunfaehig  ROT n.v.
+    SOG 0.0 kn  COG 0.0°  HDG n.v.
+    Pos 33°46.0408'N  118°13.0318'W (grob)
+    UTC-Sekunde 19  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 2 Sub 787
+!AIVDM,1,1,,A,11mg=5CP00GRV?FCCJRh3?vb08<P,0*01
+[A] Pegel 57  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 123456789 (MID 123)  Repeat 0  (168 Bit)
+    Status 3 manoevrierbehindert  ROT n.v.
+    SOG 0.0 kn  COG 1.2°  HDG n.v.
+    Pos 33°44.1035'N  118°16.2709'W (grob)
+    UTC-Sekunde 21  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 2 Sub 800
+!AIVDM,1,1,,A,15N0up0P00oRoP`CDf;P0?vd0<12,0*43
+[A] Pegel 58  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 367017440 (MID 367)  Repeat 0  (168 Bit)
+    Status 0 unter Maschine  ROT n.v.
+    SOG 0.0 kn  COG 0.0°  HDG n.v.
+    Pos 33°46.2446'N  118°12.7340'W (genau, DGNSS)
+    UTC-Sekunde 22  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 3 Sub 66
+!AIVDM,1,1,,A,15MhthP001GRT;<CCUQEoEnf0<1:,0*58
+[A] Pegel 58  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 366755010 (MID 366)  Repeat 0  (168 Bit)
+    Status 0 unter Maschine  ROT 0.0°/min
+    SOG 0.1 kn  COG 150.1°  HDG 187°
+    Pos 33°44.3845'N  118°16.6938'W (grob)
+    UTC-Sekunde 23  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 3 Sub 74
+!AIVDM,1,1,,A,15P<2P0uAAGRosBCCR`m2Stf00Rf,0*3A
+[A] Pegel 58  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 369296000 (MID 369)  Repeat 0  (168 Bit)
+    Status 0 unter Maschine  ROT -0.5°/min
+    SOG 8.1 kn  COG 129.0°  HDG 126°
+    Pos 33°44.3107'N  118°12.6487'W (grob)
+    UTC-Sekunde 23  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 0 Sub 2222
+!AIVDM,1,1,,A,15Mw>bPP00oRm8BCDUh00?vf0<15,0*73
+[A] Pegel 56  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 366988970 (MID 366)  Repeat 0  (168 Bit)
+    Status 0 unter Maschine  ROT n.v.
+    SOG 0.0 kn  COG 0.0°  HDG n.v.
+    Pos 33°46.0288'N  118°13.2215'W (genau, DGNSS)
+    UTC-Sekunde 23  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 3 Sub 69
+!AIVDM,1,1,,A,15MwrJgP00GRVi0CCLfG;gvh08>c,0*77
+[A] Pegel 64  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 367000170 (MID 367)  Repeat 0  (168 Bit)
+    Status 15 nicht definiert  ROT n.v.
+    SOG 0.0 kn  COG 183.8°  HDG n.v.
+    Pos 33°44.1593'N  118°16.1632'W (grob)
+    UTC-Sekunde 24  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 2 Sub 939
+!AIVDM,1,1,,A,139Li>P000GRV88CDTo082W>0H>q,0*7D
+[A] Pegel 57  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 211235130 (MID 211)  Repeat 0  (168 Bit)
+    Status 0 unter Maschine  ROT 0.0°/min
+    SOG 0.0 kn  COG 3.2°  HDG 83°
+    Pos 33°46.0060'N  118°16.2940'W (grob)
+    UTC-Sekunde 39  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 6 Sub 953
+!AIVDM,1,1,,A,15N0jD0P01GRm7nCDV3n<Ovh00SE,0*45
+[A] Pegel 60  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 367014480 (MID 367)  Repeat 0  (168 Bit)
+    Status 0 unter Maschine  ROT n.v.
+    SOG 0.1 kn  COG 158.5°  HDG n.v.
+    Pos 33°46.0367'N  118°13.2229'W (grob)
+    UTC-Sekunde 24  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 0 Sub 2261
+!AIVDM,1,1,,A,15MiBjPOh0oRT?PCCVQ<CV4l00S6,0*7C
+[A] Pegel 62  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 366760650 (MID 366)  Repeat 0  (168 Bit)
+    Status 0 unter Maschine  ROT >720°/min
+    SOG 0.0 kn  COG 315.0°  HDG 194°
+    Pos 33°44.4100'N  118°16.6800'W (genau, DGNSS)
+    UTC-Sekunde 26  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 0 Sub 2246
+!AIVDM,1,1,,A,15N07b?P00GRn56CDU`@0?vl0H@>,0*7F
+[A] Pegel 49  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 367003560 (MID 367)  Repeat 0  (168 Bit)
+    Status 15 nicht definiert  ROT n.v.
+    SOG 0.0 kn  COG 0.0°  HDG n.v.
+    Pos 33°46.0257'N  118°13.0269'W (grob)
+    UTC-Sekunde 26  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 6 Sub 1038
+!AIVDM,1,1,,A,15MiMfgP1KGRmdLCCNo7rwvr0L1=,0*57
+[A] Pegel 64  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 366763450 (MID 366)  Repeat 0  (168 Bit)
+    Status 15 nicht definiert  ROT n.v.
+    SOG 9.1 kn  COG 202.7°  HDG n.v.
+    Pos 33°44.2140'N  118°13.1058'W (grob)
+    UTC-Sekunde 29  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 7 Sub 77
+!AIVDM,1,1,,A,15AOO<0000GRmfBCDG970W4r0H@g,0*33
+[A] Pegel 61  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 353886000 (MID 353)  Repeat 0  (168 Bit)
+    Status 0 unter Maschine  ROT 0.0°/min
+    SOG 0.0 kn  COG 179.4°  HDG 226°
+    Pos 33°45.6548'N  118°13.0999'W (grob)
+    UTC-Sekunde 29  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 6 Sub 1071
+!AIVDM,1,1,,A,15MlC@0P01GRgaJCDRrmf?vr06Rt,0*0F
+[A] Pegel 58  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 366809920 (MID 366)  Repeat 0  (168 Bit)
+    Status 0 unter Maschine  ROT n.v.
+    SOG 0.1 kn  COG 146.4°  HDG n.v.
+    Pos 33°45.9563'N  118°14.3443'W (grob)
+    UTC-Sekunde 29  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 1 Sub 10428
+!AIVDM,1,1,,A,13RAkt?000oRme8CD<`Tn?vn0D19,0*10
+[A] Pegel 50  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 237270000 (MID 237)  Repeat 0  (168 Bit)
+    Status 15 nicht definiert  ROT 0.0°/min
+    SOG 0.0 kn  COG 124.0°  HDG n.v.
+    Pos 33°45.3858'N  118°13.1036'W (genau, DGNSS)
+    UTC-Sekunde 27  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 5 Sub 73
+!AIVDM,1,1,,A,15MvVPPP00GR`g>CDO2Vtgvt0HA9,0*0E
+[A] Pegel 57  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 366978690 (MID 366)  Repeat 0  (168 Bit)
+    Status 0 unter Maschine  ROT n.v.
+    SOG 0.0 kn  COG 177.8°  HDG n.v.
+    Pos 33°45.8570'N  118°15.7593'W (grob)
+    UTC-Sekunde 30  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 6 Sub 1097
+!AIVDM,1,1,,A,15N0HEgP00GRtVvCDI5h0?vp08AN,0*3A
+[A] Pegel 51  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 367007830 (MID 367)  Repeat 0  (168 Bit)
+    Status 15 nicht definiert  ROT n.v.
+    SOG 0.0 kn  COG 0.0°  HDG n.v.
+    Pos 33°45.7047'N  118°11.6897'W (grob)
+    UTC-Sekunde 28  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 2 Sub 1118
+!AIVDM,1,1,,A,10005V0P00GR?14CF6<P0?vn0D0O,0*48
+[A] Pegel 61  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 000001432 (Kuestenfunkstelle)  Repeat 0  (168 Bit)
+    Status 0 unter Maschine  ROT n.v.
+    SOG 0.0 kn  COG 0.0°  HDG n.v.
+    Pos 33°48.4978'N  118°21.0270'W (grob)
+    UTC-Sekunde 27  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 5 Sub 31
+!AIVDM,1,1,,A,15A53j0000oRTUdCD?i5e4ht0t1:,0*31
+[A] Pegel 49  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 353453000 (MID 353)  Repeat 0  (168 Bit)
+    Status 0 unter Maschine  ROT 0.0°/min
+    SOG 0.0 kn  COG 146.0°  HDG 152°
+    Pos 33°45.4660'N  118°16.6090'W (genau, DGNSS)
+    UTC-Sekunde 30  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 1 Timeout 7 Sub 74
+!AIVDM,1,1,,A,13=LOr0000GS6enCCKH@0GVr8HAw,0*17
+[A] Pegel 60  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 215425000 (MID 215)  Repeat 0  (168 Bit)
+    Status 0 unter Maschine  ROT 0.0°/min
+    SOG 0.0 kn  COG 0.1°  HDG 243°
+    Pos 33°44.1249'N  118°09.6197'W (grob)
+    UTC-Sekunde 29  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 6 Sub 1151
+!AIVDM,1,1,,A,15MsHH2P00GRn6tCDW3P0?vr08B<,0*09
+[A] Pegel 60  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 366925920 (MID 366)  Repeat 0  (168 Bit)
+    Status 2 manoevrierunfaehig  ROT n.v.
+    SOG 0.0 kn  COG 0.0°  HDG n.v.
+    Pos 33°46.0622'N  118°13.0210'W (grob)
+    UTC-Sekunde 29  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 2 Sub 1164
+!AIVDM,1,1,,A,14W5gP0000GRpPHCDiQ2W7bt0VRt,0*30
+[A] Pegel 52  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 309424000 (MID 309)  Repeat 0  (168 Bit)
+    Status 0 unter Maschine  ROT 0.0°/min
+    SOG 0.0 kn  COG 66.8°  HDG 245°
+    Pos 33°46.3300'N  118°12.5300'W (grob)
+    UTC-Sekunde 30  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 1 Timeout 1 Sub 10428
+!AIVDM,1,1,,A,:6LIWJ20A@qL,0*0C
+[A] Pegel 54  Typ 10  UTC-/Datumsanfrage
+    MMSI 432433000 (MID 432)  Repeat 0  (72 Bit)
+    an MMSI 538002327 (MID 538)
+!AIVDM,1,1,,A,15Mt9SPP01GRmubCDVFobOw00@BJ,0*75
+[A] Pegel 63  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 366938510 (MID 366)  Repeat 0  (168 Bit)
+    Status 0 unter Maschine  ROT n.v.
+    SOG 0.1 kn  COG 196.1°  HDG n.v.
+    Pos 33°46.0443'N  118°13.0507'W (grob)
+    UTC-Sekunde 32  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 4 Sub 1178
+!AIVDM,1,1,,A,15MvlfPP00oRmVhCDH600?vt00SN,0*24
+[A] Pegel 55  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 366982330 (MID 366)  Repeat 0  (168 Bit)
+    Status 0 unter Maschine  ROT n.v.
+    SOG 0.0 kn  COG 0.0°  HDG n.v.
+    Pos 33°45.6792'N  118°13.1240'W (genau, DGNSS)
+    UTC-Sekunde 30  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 0 Sub 2270
+!AIVDM,2,1,1,A,55MsKU00ASq9L@;KGO1@Tn15DTLL00000000000l1P?55400000000000000,0*73
+!AIVDM,2,2,1,A,00000000000,2*25
+[A] Pegel 58  Typ 5  Statische und Reisedaten Klasse A
+    MMSI 366926740 (MID 366)  Repeat 0  (424 Bit)
+    AIS-Version 0  IMO 1150866  Rufzeichen "WDB6570"
+    Name "TIM QUIGG"  Typ 52 Schlepper
+    Abmessungen Bug 12 Heck 15 Backbord 5 Steuerbord 5 m  EPFD GPS
+    ETA ----- 00:00  Tiefgang 0.0 m
+    Ziel ""  DTE bereit
+!AIVDM,1,1,,A,;8153UiuE6lgPGRaQ0CC3h100000,0*3C
+[A] Pegel 61  Typ 11  UTC-/Datumsantwort
+    MMSI 538002327 (MID 538)  Repeat 0  (168 Bit)
+    UTC 2005-04-13 20:47:32
+    Pos 33°43.5200'N  118°15.6000'W (grob)
+    EPFD GPS  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 0 Sub 0
+!AIVDM,1,1,,A,15MiC1RP00GS7d@CChSh0?w00<1<,0*6B
+[A] Pegel 62  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 366760710 (MID 366)  Repeat 0  (168 Bit)
+    Status 2 manoevrierunfaehig  ROT n.v.
+    SOG 0.0 kn  COG 0.0°  HDG n.v.
+    Pos 33°44.6671'N  118°09.4200'W (grob)
+    UTC-Sekunde 32  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 3 Sub 76
+!AIVDM,1,1,,A,15N0mD`P00GRWBTCCFIi7ww40<16,0*7F
+[A] Pegel 57  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 367015250 (MID 367)  Repeat 0  (168 Bit)
+    Status 8 unter Segel  ROT n.v.
+    SOG 0.0 kn  COG 28.7°  HDG n.v.
+    Pos 33°43.9975'N  118°16.0558'W (grob)
+    UTC-Sekunde 34  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 3 Sub 70
+!AIVDM,1,1,,A,15Mhtk0000oRT?PCCUF4aUu40HD8,0*48
+[A] Pegel 55  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 366755020 (MID 366)  Repeat 0  (168 Bit)
+    Status 0 unter Maschine  ROT 0.0°/min
+    SOG 0.0 kn  COG 119.0°  HDG 190°
+    Pos 33°44.3800'N  118°16.6800'W (genau, DGNSS)
+    UTC-Sekunde 34  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 6 Sub 1288
+!AIVDM,1,1,,A,18153Uh000GRaQ0CC494aPa606Rt,0*7F
+[A] Pegel 61  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 538002327 (MID 538)  Repeat 0  (168 Bit)
+    Status 0 unter Maschine  ROT 0.0°/min
+    SOG 0.0 kn  COG 119.0°  HDG 20°
+    Pos 33°43.5300'N  118°15.6000'W (grob)
+    UTC-Sekunde 35  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 1 Sub 10428
+!AIVDM,1,1,,A,15Mvli0P00oRlpvCDcL00?w406Rt,0*5F
+[A] Pegel 63  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 366982340 (MID 366)  Repeat 0  (168 Bit)
+    Status 0 unter Maschine  ROT n.v.
+    SOG 0.0 kn  COG 0.0°  HDG n.v.
+    Pos 33°46.1744'N  118°13.2705'W (genau, DGNSS)
+    UTC-Sekunde 34  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 1 Sub 10428
+!AIVDM,1,1,,A,15PTlL0000oRoDhCDdeRMa3600Rn,0*39
+[A] Pegel 54  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 369702000 (MID 369)  Repeat 0  (168 Bit)
+    Status 0 unter Maschine  ROT 0.0°/min
+    SOG 0.0 kn  COG 63.0°  HDG 289°
+    Pos 33°46.2070'N  118°12.7720'W (genau, DGNSS)
+    UTC-Sekunde 35  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 0 Sub 2230
+!AIVDM,1,1,,A,11mg=5@000oRT=0CCVDWg63800S>,0*42
+[A] Pegel 55  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 123456789 (MID 123)  Repeat 0  (168 Bit)
+    Status 0 unter Maschine  ROT 0.0°/min
+    SOG 0.0 kn  COG 198.0°  HDG 193°
+    Pos 33°44.4050'N  118°16.6880'W (genau, DGNSS)
+    UTC-Sekunde 36  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 0 Sub 2254
+!AIVDM,1,1,,A,15Mr`hPP01GRq3fCCn=C2Ow800RS,0*06
+[A] Pegel 64  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 366913730 (MID 366)  Repeat 0  (168 Bit)
+    Status 0 unter Maschine  ROT n.v.
+    SOG 0.1 kn  COG 77.7°  HDG n.v.
+    Pos 33°44.8117'N  118°12.4169'W (grob)
+    UTC-Sekunde 36  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 0 Sub 2211
+!AIVDM,1,1,,A,15MsUl0P00GRo4vCDge6ogw80@E=,0*01
+[A] Pegel 60  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 366929360 (MID 366)  Repeat 0  (168 Bit)
+    Status 0 unter Maschine  ROT n.v.
+    SOG 0.0 kn  COG 175.8°  HDG n.v.
+    Pos 33°46.2836'N  118°12.8225'W (grob)
+    UTC-Sekunde 36  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 4 Sub 1357
+!AIVDM,1,1,,A,15MigWP000oRuA4CD6N9JVI:0D18,0*3F
+[A] Pegel 60  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 366768030 (MID 366)  Repeat 0  (168 Bit)
+    Status 0 unter Maschine  ROT 0.0°/min
+    SOG 0.0 kn  COG 241.0°  HDG 204°
+    Pos 33°45.2280'N  118°11.5550'W (genau, DGNSS)
+    UTC-Sekunde 37  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 5 Sub 72
+!AIVDM,1,1,,A,15MiRfP000oRT:lCCTm`h0K:0<16,0*16
+[A] Pegel 59  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 366764730 (MID 366)  Repeat 0  (168 Bit)
+    Status 0 unter Maschine  ROT 0.0°/min
+    SOG 0.0 kn  COG 224.0°  HDG 13°
+    Pos 33°44.3670'N  118°16.6950'W (genau, DGNSS)
+    UTC-Sekunde 37  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 3 Sub 70
+!AIVDM,1,1,,A,177n?;8000GRb0@CDIpVfFm:00Rt,0*4B
+[A] Pegel 58  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 477990700 (MID 477)  Repeat 0  (168 Bit)
+    Status 8 unter Segel  ROT 0.0°/min
+    SOG 0.0 kn  COG 172.1°  HDG 218°
+    Pos 33°45.7250'N  118°15.5000'W (grob)
+    UTC-Sekunde 37  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 0 Sub 2236
+!AIVDM,1,1,,A,15N0:I2P00GS0tVCDD8@0?w608EO,0*3C
+[A] Pegel 58  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 367004260 (MID 367)  Repeat 0  (168 Bit)
+    Status 2 manoevrierunfaehig  ROT n.v.
+    SOG 0.0 kn  COG 0.0°  HDG n.v.
+    Pos 33°45.5777'N  118°10.8013'W (grob)
+    UTC-Sekunde 35  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 2 Sub 1375
+!AIVDM,1,1,,A,15MwlV0P00GRUEbCD@184Ow:0@Em,0*05
+[A] Pegel 61  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 366998680 (MID 366)  Repeat 0  (168 Bit)
+    Status 0 unter Maschine  ROT n.v.
+    SOG 0.0 kn  COG 206.5°  HDG n.v.
+    Pos 33°45.4724'N  118°16.4555'W (grob)
+    UTC-Sekunde 37  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 4 Sub 1397
+!AIVDM,1,1,,A,15BNqj8000GRq8HCCn93nUa<0D1E,0*2B
+[A] Pegel 56  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 354925000 (MID 354)  Repeat 0  (168 Bit)
+    Status 8 unter Segel  ROT 0.0°/min
+    SOG 0.0 kn  COG 98.6°  HDG 180°
+    Pos 33°44.8100'N  118°12.4020'W (grob)
+    UTC-Sekunde 38  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 5 Sub 85
+!AIVDM,1,1,,A,13=GcD0000GRmlPCDCL;O4q80<1@,0*41
+[A] Pegel 62  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 215346000 (MID 215)  Repeat 0  (168 Bit)
+    Status 0 unter Maschine  ROT 0.0°/min
+    SOG 0.0 kn  COG 294.0°  HDG 156°
+    Pos 33°45.5600'N  118°13.0800'W (grob)
+    UTC-Sekunde 36  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 3 Sub 80
+!AIVDM,1,1,,A,16LIWJ0000oRmC4CDko8IWK>0VRt,0*0E
+[A] Pegel 55  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 432433000 (MID 432)  Repeat 0  (168 Bit)
+    Status 0 unter Maschine  ROT 0.0°/min
+    SOG 0.0 kn  COG 215.0°  HDG 237°
+    Pos 33°46.3900'N  118°13.1870'W (genau, DGNSS)
+    UTC-Sekunde 39  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 1 Timeout 1 Sub 10428
+!AIVDM,1,1,,A,15MqDMPP00GRo;RCDf`@0?w<06Rt,0*21
+[A] Pegel 63  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 366892150 (MID 366)  Repeat 0  (168 Bit)
+    Status 0 unter Maschine  ROT n.v.
+    SOG 0.0 kn  COG 0.0°  HDG n.v.
+    Pos 33°46.2561'N  118°12.8015'W (grob)
+    UTC-Sekunde 38  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 1 Sub 10428
+!AIVDM,1,1,,A,15MwkiPP00GRUJ0CDAI76ww@06Rt,0*4E
+[A] Pegel 59  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 366998470 (MID 366)  Repeat 0  (168 Bit)
+    Status 0 unter Maschine  ROT n.v.
+    SOG 0.0 kn  COG 181.9°  HDG n.v.
+    Pos 33°45.5076'N  118°16.4416'W (grob)
+    UTC-Sekunde 40  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 1 Sub 10428
+!AIVDM,1,1,,A,15Mw>`0P00GRm6jCDUUh0?w@0<14,0*5C
+[A] Pegel 57  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 366988960 (MID 366)  Repeat 0  (168 Bit)
+    Status 0 unter Maschine  ROT n.v.
+    SOG 0.0 kn  COG 0.0°  HDG n.v.
+    Pos 33°46.0247'N  118°13.2263'W (grob)
+    UTC-Sekunde 40  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 3 Sub 68
+!AIVDM,1,1,,A,15DqPD0000GRTa8CDC82g1=@0`H4,0*52
+[A] Pegel 47  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 357458000 (MID 357)  Repeat 0  (168 Bit)
+    Status 0 unter Maschine  ROT 0.0°/min
+    SOG 0.0 kn  COG 70.0°  HDG 38°
+    Pos 33°45.5520'N  118°16.5980'W (grob)
+    UTC-Sekunde 40  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 1 Timeout 2 Sub 1540
+!AIVDM,1,1,,A,15DG@r0000GRkH@CC@@617SB00SB,0*55
+[A] Pegel 59  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 356897000 (MID 356)  Repeat 0  (168 Bit)
+    Status 0 unter Maschine  ROT 0.0°/min
+    SOG 0.0 kn  COG 154.0°  HDG 241°
+    Pos 33°43.8400'N  118°13.5800'W (grob)
+    UTC-Sekunde 41  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 0 Sub 2258
+!AIVDM,1,1,,A,11mg=5CP00GRV@nCCJO01gwB00Sj,0*35
+[A] Pegel 56  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 123456789 (MID 123)  Repeat 0  (168 Bit)
+    Status 3 manoevrierbehindert  ROT n.v.
+    SOG 0.0 kn  COG 0.6°  HDG n.v.
+    Pos 33°44.1020'N  118°16.2661'W (grob)
+    UTC-Sekunde 41  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 0 Sub 2290
+!AIVDM,1,1,,A,35Mpdl5000GRc?`CC?bUlR=>0000,0*0C
+[A] Pegel 56  Typ 3  Positionsmeldung Klasse A (auf Abfrage)
+    MMSI 366882000 (MID 366)  Repeat 0  (168 Bit)
+    Status 5 festgemacht  ROT 0.0°/min
+    SOG 0.0 kn  COG 149.0°  HDG 70°
+    Pos 33°43.8250'N  118°15.2460'W (grob)
+    UTC-Sekunde 39  Manoever n.v.  RAIM nein
+    Funk: ITDMA Sync 0 Slot-Inkrement 0 Slots 0 Keep 0
+!AIVDM,1,1,,A,15N0up0P00oRoP`CDf;P0?wB0L14,0*12
+[A] Pegel 55  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 367017440 (MID 367)  Repeat 0  (168 Bit)
+    Status 0 unter Maschine  ROT n.v.
+    SOG 0.0 kn  COG 0.0°  HDG n.v.
+    Pos 33°46.2446'N  118°12.7340'W (genau, DGNSS)
+    UTC-Sekunde 41  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 7 Sub 68
+!AIVDM,1,1,,A,15P<2P0uADGRp8vCCQQ4uSqF06Rt,0*42
+[A] Pegel 64  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 369296000 (MID 369)  Repeat 0  (168 Bit)
+    Status 0 unter Maschine  ROT -0.5°/min
+    SOG 8.4 kn  COG 127.0°  HDG 124°
+    Pos 33°44.2820'N  118°12.6049'W (grob)
+    UTC-Sekunde 43  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 1 Sub 10428
+!AIVDM,2,1,2,A,55P<2P00AJJeM8L@000mJ0l4qDd4T00000000016D0q@@4aD0KR3kSk5C5@0,0*53
+!AIVDM,2,2,2,A,00000000000,2*26
+[A] Pegel 59  Typ 5  Statische und Reisedaten Klasse A
+    MMSI 369296000 (MID 369)  Repeat 0  (424 Bit)
+    AIS-Version 0  IMO 1141163  Rufzeichen "WRGD"
+    Name "MV MANUKAI"  Typ 70 Frachtschiff: alle
+    Abmessungen Bug 160 Heck 57 Backbord 16 Steuerbord 16 m  EPFD GPS
+    ETA 02-18 20:00  Tiefgang 11.0 m
+    Ziel "HONOLULU"  DTE bereit
+!AIVDM,1,1,,A,15MhthP001GRT;FCCURUqEoH0L1:,0*70
+[A] Pegel 65  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 366755010 (MID 366)  Repeat 0  (168 Bit)
+    Status 0 unter Maschine  ROT 0.0°/min
+    SOG 0.1 kn  COG 150.9°  HDG 187°
+    Pos 33°44.3850'N  118°16.6933'W (grob)
+    UTC-Sekunde 44  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 7 Sub 74
+!AIVDM,1,1,,A,15Mw>bPP00oRm8BCDUh00?wF08JO,0*57
+[A] Pegel 61  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 366988970 (MID 366)  Repeat 0  (168 Bit)
+    Status 0 unter Maschine  ROT n.v.
+    SOG 0.0 kn  COG 0.0°  HDG n.v.
+    Pos 33°46.0288'N  118°13.2215'W (genau, DGNSS)
+    UTC-Sekunde 43  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 2 Sub 1695
+!AIVDM,1,1,,A,139Li>P000GRV88CDTo>0BWl0@J@,0*14
+[A] Pegel 59  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 211235130 (MID 211)  Repeat 0  (168 Bit)
+    Status 0 unter Maschine  ROT 0.0°/min
+    SOG 0.0 kn  COG 358.5°  HDG 83°
+    Pos 33°46.0060'N  118°16.2940'W (grob)
+    UTC-Sekunde 58  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 4 Sub 1680
+!AIVDM,1,1,,A,15MwrJgP00GRVhpCCLf7;gwH06Rt,0*12
+[A] Pegel 63  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 367000170 (MID 367)  Repeat 0  (168 Bit)
+    Status 15 nicht definiert  ROT n.v.
+    SOG 0.0 kn  COG 183.8°  HDG n.v.
+    Pos 33°44.1592'N  118°16.1636'W (grob)
+    UTC-Sekunde 44  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 1 Sub 10428
+!AIVDM,1,1,,A,34a0K41002GRJQDC5<cR74QD0DT0,0*3B
+[A] Pegel 68  Typ 3  Positionsmeldung Klasse A (auf Abfrage)
+    MMSI 311434000 (MID 311)  Repeat 0  (168 Bit)
+    Status 1 vor Anker  ROT 0.0°/min
+    SOG 0.2 kn  COG 54.0°  HDG 144°
+    Pos 33°20.8110'N  118°18.6710'W (grob)
+    UTC-Sekunde 42  Manoever n.v.  RAIM nein
+    Funk: ITDMA Sync 0 Slot-Inkrement 5264 Slots 0 Keep 0
+!AIVDM,1,1,,A,15MiBjP000GRT?PCCVQ<CV7L0D1:,0*4A
+[A] Pegel 57  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 366760650 (MID 366)  Repeat 0  (168 Bit)
+    Status 0 unter Maschine  ROT 0.0°/min
+    SOG 0.0 kn  COG 315.0°  HDG 195°
+    Pos 33°44.4100'N  118°16.6800'W (grob)
+    UTC-Sekunde 46  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 5 Sub 74
+!AIVDM,1,1,,A,15N0jD0P01GRm7nCDV3FkOwH0@K5,0*03
+[A] Pegel 60  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 367014480 (MID 367)  Repeat 0  (168 Bit)
+    Status 0 unter Maschine  ROT n.v.
+    SOG 0.1 kn  COG 174.1°  HDG n.v.
+    Pos 33°46.0365'N  118°13.2229'W (grob)
+    UTC-Sekunde 44  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 4 Sub 1733
+!AIVDM,1,1,,A,15N07b?P00GRn56CDU`@0?wJ0HKO,0*22
+[A] Pegel 63  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 367003560 (MID 367)  Repeat 0  (168 Bit)
+    Status 15 nicht definiert  ROT n.v.
+    SOG 0.0 kn  COG 0.0°  HDG n.v.
+    Pos 33°46.0257'N  118°13.0269'W (grob)
+    UTC-Sekunde 45  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 6 Sub 1759
+!AIVDM,2,1,3,A,577n?;02;85mI85K@01<4L4<TuE>0pTdD0000016CPN:D54:NGC3lp0CQiC1,0*0F
+!AIVDM,2,2,3,A,Dh000000000,2*0B
+[A] Pegel 61  Typ 5  Statische und Reisedaten Klasse A
+    MMSI 477990700 (MID 477)  Repeat 0  (424 Bit)
+    AIS-Version 0  IMO 9117789  Rufzeichen "VRAV4"
+    Name "SAGACIOUS NIKE"  Typ 70 Frachtschiff: alle
+    Abmessungen Bug 156 Heck 30 Backbord 10 Steuerbord 20 m  EPFD GPS
+    ETA 04-08 10:30  Tiefgang 9.3 m
+    Ziel "LOS ANGELES"  DTE bereit
+!AIVDM,1,1,,A,15AOO<0001GRmfNCDG8o175P06Rt,0*5A
+[A] Pegel 62  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 353886000 (MID 353)  Repeat 0  (168 Bit)
+    Status 0 unter Maschine  ROT 0.0°/min
+    SOG 0.1 kn  COG 179.6°  HDG 226°
+    Pos 33°45.6547'N  118°13.0993'W (grob)
+    UTC-Sekunde 48  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 1 Sub 10428
+!AIVDM,1,1,,A,13RAkt?000oRme6CD<`TpgwL08L3,0*70
+[A] Pegel 54  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 237270000 (MID 237)  Repeat 0  (168 Bit)
+    Status 15 nicht definiert  ROT 0.0°/min
+    SOG 0.0 kn  COG 125.0°  HDG n.v.
+    Pos 33°45.3858'N  118°13.1037'W (genau, DGNSS)
+    UTC-Sekunde 46  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 2 Sub 1795
+!AIVDM,1,1,,A,15MiMfgP1MGRmU2CCLr7pwwR08LF,0*50
+[A] Pegel 56  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 366763450 (MID 366)  Repeat 0  (168 Bit)
+    Status 15 nicht definiert  ROT n.v.
+    SOG 9.3 kn  COG 201.9°  HDG n.v.
+    Pos 33°44.1640'N  118°13.1295'W (grob)
+    UTC-Sekunde 49  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 2 Sub 1814
+!AIVDM,1,1,,A,15MvVPPP01GR`g6CDO2FjgwR0HLS,0*49
+[A] Pegel 63  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 366978690 (MID 366)  Repeat 0  (168 Bit)
+    Status 0 unter Maschine  ROT n.v.
+    SOG 0.1 kn  COG 173.8°  HDG n.v.
+    Pos 33°45.8569'N  118°15.7597'W (grob)
+    UTC-Sekunde 49  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 6 Sub 1827
+!AIVDM,1,1,,A,15MlC@0P01GRgbDCDRm63wwR0<1:,0*5D
+[A] Pegel 55  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 366809920 (MID 366)  Repeat 0  (168 Bit)
+    Status 0 unter Maschine  ROT n.v.
+    SOG 0.1 kn  COG 155.1°  HDG n.v.
+    Pos 33°45.9540'N  118°14.3414'W (grob)
+    UTC-Sekunde 49  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 3 Sub 74
+!AIVDM,2,1,4,A,55N07b000005L@??7OU<th4p400000000000000l00J086VdO8j3kA@00000,0*10
+!AIVDM,2,2,4,A,00000000000,2*20
+[A] Pegel 54  Typ 5  Statische und Reisedaten Klasse A
+    MMSI 367003560 (MID 367)  Repeat 0  (424 Bit)
+    AIS-Version 0  IMO 1  Rufzeichen "WDC3179"
+    Name "SOLANA"  Typ 52 Schlepper
+    Abmessungen Bug 0 Heck 26 Backbord 0 Steuerbord 8 m  EPFD GPS
+    ETA 10-13 12:31  Tiefgang 3.5 m
+    Ziel "HOME"  DTE bereit
+!AIVDM,1,1,,A,15MwkWPP00GRUHFCD@S7EOwR0<12,0*69
+[A] Pegel 56  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 366998430 (MID 366)  Repeat 0  (168 Bit)
+    Status 0 unter Maschine  ROT n.v.
+    SOG 0.0 kn  COG 187.7°  HDG n.v.
+    Pos 33°45.4860'N  118°16.4469'W (grob)
+    UTC-Sekunde 49  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 3 Sub 66
+!AIVDM,1,1,,A,15A53j0000oRTUHCD?i5e4iN0`M5,0*41
+[A] Pegel 52  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 353453000 (MID 353)  Repeat 0  (168 Bit)
+    Status 0 unter Maschine  ROT 0.0°/min
+    SOG 0.0 kn  COG 146.0°  HDG 152°
+    Pos 33°45.4660'N  118°16.6100'W (genau, DGNSS)
+    UTC-Sekunde 47  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 1 Timeout 2 Sub 1861
+!AIVDM,1,1,,A,15N0HEgP00GRtVvCDI5h0?wP0@M6,0*17
+[A] Pegel 55  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 367007830 (MID 367)  Repeat 0  (168 Bit)
+    Status 15 nicht definiert  ROT n.v.
+    SOG 0.0 kn  COG 0.0°  HDG n.v.
+    Pos 33°45.7047'N  118°11.6897'W (grob)
+    UTC-Sekunde 48  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 4 Sub 1862
+!AIVDM,1,1,,A,15N0BB0P1=GR>W4C6FFA0?wT00RO,0*7D
+[A] Pegel 59  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 367006280 (MID 367)  Repeat 0  (168 Bit)
+    Status 0 unter Maschine  ROT n.v.
+    SOG 7.7 kn  COG 25.6°  HDG n.v.
+    Pos 33°22.6969'N  118°21.1102'W (grob)
+    UTC-Sekunde 50  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 0 Sub 2207
+!AIVDM,1,1,,A,15Mt9SPP01GRmu<CDVEGf?wV06Rt,0*4A
+[A] Pegel 62  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 366938510 (MID 366)  Repeat 0  (168 Bit)
+    Status 0 unter Maschine  ROT n.v.
+    SOG 0.1 kn  COG 197.6°  HDG n.v.
+    Pos 33°46.0437'N  118°13.0522'W (grob)
+    UTC-Sekunde 51  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 1 Sub 10428
+!AIVDM,1,1,,A,15MsHH2P00GRn6tCDW3P0?wR0@Mv,0*15
+[A] Pegel 57  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 366925920 (MID 366)  Repeat 0  (168 Bit)
+    Status 2 manoevrierunfaehig  ROT n.v.
+    SOG 0.0 kn  COG 0.0°  HDG n.v.
+    Pos 33°46.0622'N  118°13.0210'W (grob)
+    UTC-Sekunde 49  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 4 Sub 1918
+!AIVDM,1,1,,A,177eB80000oRr`0CBS@=0WIV00Ra,0*73
+[A] Pegel 49  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 477844000 (MID 477)  Repeat 0  (168 Bit)
+    Status 0 unter Maschine  ROT 0.0°/min
+    SOG 0.0 kn  COG 333.0°  HDG 236°
+    Pos 33°42.6880'N  118°12.0960'W (genau, DGNSS)
+    UTC-Sekunde 51  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 0 Sub 2217
+!AIVDM,1,1,,A,14W5gP0000GRpPHCDiQ2W7cT0PSH,0*2A
+[A] Pegel 55  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 309424000 (MID 309)  Repeat 0  (168 Bit)
+    Status 0 unter Maschine  ROT 0.0°/min
+    SOG 0.0 kn  COG 66.8°  HDG 245°
+    Pos 33°46.3300'N  118°12.5300'W (grob)
+    UTC-Sekunde 50  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 1 Timeout 0 Sub 2264
+!AIVDM,1,1,,A,13=LOr0000GS6efCCKGP0GWT86Rt,0*49
+[A] Pegel 59  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 215425000 (MID 215)  Repeat 0  (168 Bit)
+    Status 0 unter Maschine  ROT 0.0°/min
+    SOG 0.0 kn  COG 0.1°  HDG 243°
+    Pos 33°44.1246'N  118°09.6201'W (grob)
+    UTC-Sekunde 50  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 1 Sub 10428
+!AIVDM,1,1,,A,15MvlfPP00oRmVhCDH600?wV0@OK,0*6E
+[A] Pegel 55  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 366982330 (MID 366)  Repeat 0  (168 Bit)
+    Status 0 unter Maschine  ROT n.v.
+    SOG 0.0 kn  COG 0.0°  HDG n.v.
+    Pos 33°45.6792'N  118°13.1240'W (genau, DGNSS)
+    UTC-Sekunde 51  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 4 Sub 2011
+!AIVDM,1,1,,A,18153Uh000GRaQ0CC494aPab08OA,0*0D
+[A] Pegel 55  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 538002327 (MID 538)  Repeat 0  (168 Bit)
+    Status 0 unter Maschine  ROT 0.0°/min
+    SOG 0.0 kn  COG 119.0°  HDG 20°
+    Pos 33°43.5300'N  118°15.6000'W (grob)
+    UTC-Sekunde 53  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 2 Sub 2001
+!AIVDM,1,1,,A,15N0mD`P00GRWBTCCFJA7wwb0<17,0*03
+[A] Pegel 59  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 367015250 (MID 367)  Repeat 0  (168 Bit)
+    Status 8 unter Segel  ROT n.v.
+    SOG 0.0 kn  COG 28.7°  HDG n.v.
+    Pos 33°43.9977'N  118°16.0558'W (grob)
+    UTC-Sekunde 53  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 3 Sub 71
+!AIVDM,1,1,,A,15MiC1RP00GS7d@CChSh0?wb0@P:,0*22
+[A] Pegel 59  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 366760710 (MID 366)  Repeat 0  (168 Bit)
+    Status 2 manoevrierunfaehig  ROT n.v.
+    SOG 0.0 kn  COG 0.0°  HDG n.v.
+    Pos 33°44.6671'N  118°09.4200'W (grob)
+    UTC-Sekunde 53  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 4 Sub 2058
+!AIVDM,1,1,,A,11mg=5@000oRT=0CCVDWK63f08P;,0*3E
+[A] Pegel 59  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 123456789 (MID 123)  Repeat 0  (168 Bit)
+    Status 0 unter Maschine  ROT 0.0°/min
+    SOG 0.0 kn  COG 190.0°  HDG 193°
+    Pos 33°44.4050'N  118°16.6880'W (genau, DGNSS)
+    UTC-Sekunde 55  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 2 Sub 2059
+!AIVDM,1,1,,A,15PTlL0000oRoDhCDdeRMa3f0HPG,0*3A
+[A] Pegel 55  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 369702000 (MID 369)  Repeat 0  (168 Bit)
+    Status 0 unter Maschine  ROT 0.0°/min
+    SOG 0.0 kn  COG 63.0°  HDG 289°
+    Pos 33°46.2070'N  118°12.7720'W (genau, DGNSS)
+    UTC-Sekunde 55  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 6 Sub 2071
+!AIVDM,1,1,,A,15Mhtk0000oRT?PCCUF4aUuh0D1;,0*6E
+[A] Pegel 59  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 366755020 (MID 366)  Repeat 0  (168 Bit)
+    Status 0 unter Maschine  ROT 0.0°/min
+    SOG 0.0 kn  COG 119.0°  HDG 190°
+    Pos 33°44.3800'N  118°16.6800'W (genau, DGNSS)
+    UTC-Sekunde 56  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 5 Sub 75
+!AIVDM,1,1,,A,15Mr`hPP01GRq3LCCnARogwh06Rt,0*45
+[A] Pegel 58  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 366913730 (MID 366)  Repeat 0  (168 Bit)
+    Status 0 unter Maschine  ROT n.v.
+    SOG 0.1 kn  COG 73.4°  HDG n.v.
+    Pos 33°44.8134'N  118°12.4178'W (grob)
+    UTC-Sekunde 56  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 1 Sub 10428
+!AIVDM,1,1,,A,15Mvli0P00oRlptCDcL00?wd06Rt,0*0D
+[A] Pegel 56  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 366982340 (MID 366)  Repeat 0  (168 Bit)
+    Status 0 unter Maschine  ROT n.v.
+    SOG 0.0 kn  COG 0.0°  HDG n.v.
+    Pos 33°46.1744'N  118°13.2706'W (genau, DGNSS)
+    UTC-Sekunde 54  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 1 Sub 10428
+!AIVDM,1,1,,A,15MsUl0P01GRo4nCDgf6U?wh08P`,0*19
+[A] Pegel 58  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 366929360 (MID 366)  Repeat 0  (168 Bit)
+    Status 0 unter Maschine  ROT n.v.
+    SOG 0.1 kn  COG 168.4°  HDG n.v.
+    Pos 33°46.2840'N  118°12.8229'W (grob)
+    UTC-Sekunde 56  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 2 Sub 2088
+!AIVDM,1,1,,A,177n?;8000GRb0@CDIpVp6kj00RO,0*40
+[A] Pegel 51  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 477990700 (MID 477)  Repeat 0  (168 Bit)
+    Status 8 unter Segel  ROT 0.0°/min
+    SOG 0.0 kn  COG 176.0°  HDG 217°
+    Pos 33°45.7250'N  118°15.5000'W (grob)
+    UTC-Sekunde 57  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 0 Sub 2207
+!AIVDM,1,1,,A,15MigWP001oRuA4CD6Kdv6Kl06Rt,0*33
+[A] Pegel 64  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 366768030 (MID 366)  Repeat 0  (168 Bit)
+    Status 0 unter Maschine  ROT 0.0°/min
+    SOG 0.1 kn  COG 332.0°  HDG 205°
+    Pos 33°45.2270'N  118°11.5550'W (genau, DGNSS)
+    UTC-Sekunde 58  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 1 Sub 10428
+!AIVDM,2,1,5,A,55MvlfP1jsD1L@;WOK=0tTqB1HT<Dq@F2222220O0pG554000;C0H;p30`20,0*22
+!AIVDM,2,2,5,A,DPSl`888880,2*52
+[A] Pegel 58  Typ 5  Statische und Reisedaten Klasse A
+    MMSI 366982330 (MID 366)  Repeat 0  (424 Bit)
+    AIS-Version 0  IMO 7531840  Rufzeichen "WDB9763"
+    Name "POINT VICENTE"  Typ 31 Schlepper
+    Abmessungen Bug 7 Heck 23 Backbord 5 Steuerbord 5 m  EPFD GPS
+    ETA ----- 00:00  Tiefgang 4.5 m
+    Ziel "LA / LB HARBOR"  DTE bereit
+!AIVDM,1,1,,A,15BNqj8000GRq84CCn93nUaj06Rt,0*21
+[A] Pegel 61  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 354925000 (MID 354)  Repeat 0  (168 Bit)
+    Status 8 unter Segel  ROT 0.0°/min
+    SOG 0.0 kn  COG 98.6°  HDG 180°
+    Pos 33°44.8100'N  118°12.4030'W (grob)
+    UTC-Sekunde 57  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 1 Sub 10428
+!AIVDM,1,1,,A,15MiRfP000oRT:PCCTmTn0Kj08QO,0*55
+[A] Pegel 61  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 366764730 (MID 366)  Repeat 0  (168 Bit)
+    Status 0 unter Maschine  ROT 0.0°/min
+    SOG 0.0 kn  COG 124.0°  HDG 13°
+    Pos 33°44.3670'N  118°16.6960'W (genau, DGNSS)
+    UTC-Sekunde 57  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 2 Sub 2143
+!AIVDM,1,1,,A,15MvlaPP00GRm`pCDHE82?wf08QP,0*5B
+[A] Pegel 59  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 366982310 (MID 366)  Repeat 0  (168 Bit)
+    Status 0 unter Maschine  ROT n.v.
+    SOG 0.0 kn  COG 205.6°  HDG n.v.
+    Pos 33°45.6852'N  118°13.1172'W (grob)
+    UTC-Sekunde 55  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 2 Sub 2144
+!AIVDM,1,1,,A,13=GcD0000GRmlPCDCL;O4qf00RT,0*64
+[A] Pegel 63  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 215346000 (MID 215)  Repeat 0  (168 Bit)
+    Status 0 unter Maschine  ROT 0.0°/min
+    SOG 0.0 kn  COG 294.0°  HDG 156°
+    Pos 33°45.5600'N  118°13.0800'W (grob)
+    UTC-Sekunde 55  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 0 Sub 2212
+!AIVDM,1,1,,A,15MwlV0P00GRUEVCD@184Owh08Qp,0*12
+[A] Pegel 61  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 366998680 (MID 366)  Repeat 0  (168 Bit)
+    Status 0 unter Maschine  ROT n.v.
+    SOG 0.0 kn  COG 206.5°  HDG n.v.
+    Pos 33°45.4724'N  118°16.4557'W (grob)
+    UTC-Sekunde 56  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 2 Sub 2168
+!AIVDM,1,1,,A,15N0:I2P00GS0tVCDD8@0?wh0<1:,0*67
+[A] Pegel 49  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 367004260 (MID 367)  Repeat 0  (168 Bit)
+    Status 2 manoevrierunfaehig  ROT n.v.
+    SOG 0.0 kn  COG 0.0°  HDG n.v.
+    Pos 33°45.5777'N  118°10.8013'W (grob)
+    UTC-Sekunde 56  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 3 Sub 74
+!AIVDM,1,1,,A,15MqDMPP00GRo;RCDf`@0?wj06Rt,0*77
+[A] Pegel 64  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 366892150 (MID 366)  Repeat 0  (168 Bit)
+    Status 0 unter Maschine  ROT n.v.
+    SOG 0.0 kn  COG 0.0°  HDG n.v.
+    Pos 33°46.2561'N  118°12.8015'W (grob)
+    UTC-Sekunde 57  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 1 Sub 10428
+!AIVDM,1,1,,A,18150e@P@6GQi=pCIpN3w8Mn0L1F,0*4A
+[A] Pegel 52  Typ 1  Positionsmeldung Klasse A (planmaessig)
+    MMSI 538001589 (MID 538)  Repeat 0  (168 Bit)
+    Status 0 unter Maschine  ROT <-720°/min
+    SOG 0.6 kn  COG 102.0°  HDG 270°
+    Pos 33°54.7000'N  118°27.1300'W (grob)
+    UTC-Sekunde 59  Manoever n.v.  RAIM nein
+    Funk: SOTDMA Sync 0 Timeout 7 Sub 86

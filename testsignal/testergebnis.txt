@@ -1,0 +1,25 @@
+Testergebnis AIS-Dekoder
+Fall                                  Soll  Erkannt Ueberzaehl.
+Skagen IQ (echt) OSR4                   13       13         0
+Skagen IQ (echt) OSR5                   13       13         0
+Algarve NF (echt) OSR4                   8        8         2
+Algarve NF (echt) OSR5                   8        8         2
+L.A. Test1 8 Bit (Regr.) OSR4           77       71         0
+L.A. Test1 8 Bit (Regr.) OSR5           77       74         0
+L.A. Test2 16 Bit (Regr.) OSR4         112      109         0
+L.A. Test2 16 Bit (Regr.) OSR5         112      111         0
+synth sauber 25 dB OSR4                 61       60         0
+synth SNR 14 dB OSR4                    61       27         0
+synth DC +800 Hz OSR4                   61       58         0
+synth HP 30 Hz OSR4                     61       60         0
+synth Takt +-50 ppm OSR4                61       60         0
+synth Schwund 12 dB OSR4                61       60         0
+synth Audio 6 kHz BW OSR4               61       60         0
+synth sauber 25 dB OSR5                 61       60         0
+synth SNR 14 dB OSR5                    61       29         0
+synth DC +800 Hz OSR5                   61       58         0
+synth HP 30 Hz OSR5                     61       60         0
+synth Takt +-50 ppm OSR5                61       60         0
+synth Schwund 12 dB OSR5                61       59         0
+synth Audio 6 kHz BW OSR5               61       60         0
+Textdekoder: 1187 Feldpruefungen, 0 Abweichungen
